@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Peekay-Davis
-- 👀 I’m interested in python and Arduino
-- 🌱 I’m currently learning OOP in python
-- 💞️ I’m looking to collaborate on any ARDUINO PROJECT
-- 📫 How to reach me Call +2330245704907
+👋 I'm Edward Davis, a robotics engineer, and
+I'm available to work on any project involving robotics. 
+You can reach me at +2330245704907 or by email at edwarddavis909@gmail.com.
 
 <!---
 Peekay-Davis/Peekay-Davis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
